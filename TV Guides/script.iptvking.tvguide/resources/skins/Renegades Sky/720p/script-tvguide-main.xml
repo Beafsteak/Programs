@@ -61,7 +61,7 @@
             <control type="button" id="5001">
                 <description>marker for EPG data view - should be hidden!</description>
                 <posx>280</posx>
-                <posy>260</posy>
+                <posy>310</posy>
                 <width>900</width>
                 <height>400</height>
                 <visible>false</visible>
@@ -69,16 +69,16 @@
 			
 			<control type="image" id="4100">
                 <posx>180</posx>
-                <posy>260</posy>
-                <width>25</width>
-                <height>392</height>
+                <posy>310</posy>
+                <width>-1000%</width>
+                <height>398</height>
                 <texture>tvguide-timebar.png</texture>
             </control>
 
 			<control type="image">
 				<description>workaround for texture not being loaded</description>
 				<posx>0</posx>
-				<posy>260</posy>
+				<posy>310</posy>
 				<width>280</width>
 				<height>455</height>
 				<visible>true</visible>
@@ -88,7 +88,7 @@
 			<control type="image">
 				<description>workaround for texture not being loaded</description>
 				<posx>1280</posx>
-				<posy>260</posy>
+				<posy>310</posy>
 				<width>-102</width>
 				<height>455</height>
 				<visible>true</visible>
@@ -118,8 +118,8 @@
 
                 <control type="label" id="4000">
                     <description>Displays todays date</description>
-                    <posx>1150</posx>
-                    <posy>-30</posy>
+                    <posx>1250</posx>
+                    <posy>-20</posy>
                     <width>180</width>
                     <height>100</height>
                     <textcolor>ffffffff</textcolor>
@@ -131,11 +131,11 @@
 				
 				<control type="label" id="3999">
                     <description>Displays todays date</description>
-                    <posx>1150</posx>
-                    <posy>-30</posy>
+                    <posx>1120</posx>
+                    <posy>200</posy>
                     <width>500</width>
                     <height>100</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
 					<align>right</align>
                     <aligny>center</aligny>
@@ -143,11 +143,11 @@
 				
 				<control type="label">
                     <description>Displays todays date</description>
-                    <posx>830</posx>
-                    <posy>-30</posy>
+                    <posx>1200</posx>
+                    <posy>200</posy>
                     <width>500</width>
                     <height>100</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
 					<align>right</align>
                     <aligny>center</aligny>
@@ -156,55 +156,54 @@
 				
 				<control type="label">
                     <description>Displays todays date</description>
-                    <posx>500</posx>
-                    <posy>30</posy>
-                    <width>500</width>
-                    <height>100</height>
-                    <textcolor>ffffffff</textcolor>
+                    <posx>70</posx>
+                    <posy>225</posy>
+                    <width>180</width>
+                    <height>50</height>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
 					<align>left</align>
                     <aligny>center</aligny>
 					<label>TV Guide</label>
-					<visible>false</visible>
                 </control>
 				
                 <control type="label" id="4001">
                     <description>1st half hour column</description>
                     <posx>280</posx>
-                    <posy>212</posy>
+                    <posy>260</posy>
                     <width>270</width>
                     <height>50</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
                     <aligny>center</aligny>
                 </control>
                 <control type="label" id="4002">
                     <description>2nd half hour column</description>
                     <posx>505</posx>
-                    <posy>212</posy>
+                    <posy>260</posy>
                     <width>270</width>
                     <height>50</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
                     <aligny>center</aligny>
                 </control>
                 <control type="label" id="4003">
                     <description>3rd half hour column</description>
                     <posx>728</posx>
-                    <posy>212</posy>
+                    <posy>260</posy>
                     <width>270</width>
                     <height>50</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
                     <aligny>center</aligny>
                 </control>
                 <control type="label" id="4004">
                     <description>4th half hour column</description>
                     <posx>955</posx>
-                    <posy>212</posy>
+                    <posy>260</posy>
                     <width>270</width>
                     <height>50</height>
-                    <textcolor>ffffffff</textcolor>
+                    <textcolor>ff6c99ca</textcolor>
                     <font>font13</font>
                     <aligny>center</aligny>
                 </control>
@@ -213,7 +212,7 @@
             <!-- Channels column -->
             <control type="group">
                 <posx>0</posx>
-                <posy>60</posy>
+                <posy>110</posy>
                 <width>180</width>
                 <height>400</height>
                 <visible>true</visible>
@@ -415,11 +414,11 @@
 
             <control type="label" id="4020">
                 <description>Program title</description>
-                <posx>27</posx>
+                <posx>270</posx>
                 <posy>65</posy>
                 <width>630</width>
                 <height>50</height>
-                <textcolor>ffffffff</textcolor>
+                <textcolor>ff6c99ca</textcolor>
                 <font>font13</font>
 				<align>left</align>
                 <aligny>center</aligny>
@@ -436,11 +435,11 @@
             </control>
             <control type="label" id="4021">
                 <description>Program time</description>
-                <posx>28</posx>
-                <posy>35</posy>
+                <posx>15</posx>
+                <posy>65</posy>
                 <width>340</width>
                 <height>50</height>
-                <textcolor>ffffffff</textcolor>
+                <textcolor>ff6c99ca</textcolor>
                 <font>font13</font>
                 <align>left</align>
                 <aligny>center</aligny>
@@ -450,7 +449,7 @@
                 <posx>30</posx>
                 <posy>110</posy>
                 <width>850</width>
-                <height>115</height>
+                <height>125</height>
                 <textcolor>ffffffff</textcolor>
                 <font>font13</font>
 				<align>justify</align>
@@ -546,129 +545,135 @@
             </control>
             <control type="group">
                 <posx>0</posx>
-                <posy>0</posy>
+                <posy>720</posy>
                 <width>1280</width>
                 <height>70</height>
                 <visible>!Control.IsVisible(4300)</visible>
-                <animation effect="slide" start="0,10" end="0,10" time="500">Visible</animation>
-                <animation effect="slide" start="0,10" end="0,10" time="500">Hidden</animation>
+                <animation effect="slide" start="0,0" end="0,-70" time="500">Visible</animation>
+                <animation effect="slide" start="0,-70" end="0,0" time="500">Hidden</animation>
 
                 <control type="image">
-                    <posx>50</posx>
+                    <posx>0</posx>
                     <posy>0</posy>
-                    <width>1178</width>
-                    <height>36</height>
-                    <texture>tvguide-glasspane-none.png</texture>
+                    <width>1280</width>
+                    <height>70</height>
+                    <texture>tvguide-glasspane.png</texture>
+                </control>
+                <control type="image">
+                    <posx>0</posx>
+                    <posy>0</posy>
+                    <width>1280</width>
+                    <height>70</height>
+                    <texture>tvguide-glasspane.png</texture>
                 </control>
                 <control type="label">
-                    <posx>225</posx>
-                    <posy>655</posy>
+                    <posx>20</posx>
+                    <posy>10</posy>
                     <width>300</width>
                     <height>50</height>
-                    <label>Touch Screen or Mouse Control</label>
+                    <label>$ADDON[script.renegadestv 30005]</label>
                     <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
+                    <font>font13</font>
                     <aligny>center</aligny>
-			<visible>false</visible>
                 </control>
                 <control type="label">
-                    <posx>760</posx>
-                    <posy>655</posy>
-                    <width>420</width>
+                    <posx>800</posx>
+                    <posy>10</posy>
+                    <width>400</width>
                     <height>50</height>
-                    <label>You can also use the Scroll Wheel</label>
+                    <label>$ADDON[script.renegadestv 30007]</label>
                     <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
+                    <font>font13</font>
                     <aligny>center</aligny>
-					<visible>false</visible>
                 </control>
 
                 <control type="button" id="4301">
                     <description>navigate to now</description>
-                    <posx>600</posx>
-                    <posy>660</posy>
-                    <width>40</width>
-                    <height>40</height>
-                    <label></label>
-                    <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <aligny>center</aligny>
-                    <align>center</align>
-                    <texturefocus>tvguide-touch_now_focus.png</texturefocus>
-                    <texturenofocus>tvguide-touch_now.png</texturenofocus>
-                </control>
-
-                <control type="button" id="4302">
-                    <description>navigate left</description>
-                    <posx>470</posx>
-                    <posy>660</posy>
-                    <width>40</width>
-                    <height>40</height>
-                    <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <label></label>
-                    <aligny>center</aligny>
-                    <align>center</align>
-                    <texturefocus>tvguide-touch_left_focus.png</texturefocus>
-                    <texturenofocus>tvguide-touch_left.png</texturenofocus>
-                </control>
-                <control type="button" id="4303">
-                    <description>navigate up</description>
-                    <posx>535</posx>
-                    <posy>660</posy>
-                    <width>40</width>
-                    <height>40</height>
-                    <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <label></label>
-                    <aligny>center</aligny>
-                    <align>center</align>
-                    <texturefocus>tvguide-touch_up_focus.png</texturefocus>
-                    <texturenofocus>tvguide-touch_up.png</texturenofocus>
-                </control>
-                <control type="button" id="4304">
-                    <description>navigate down</description>
-                    <posx>665</posx>
-                    <posy>660</posy>
-                    <width>40</width>
-                    <height>40</height>
-                    <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <label></label>
-                    <aligny>center</aligny>
-                    <align>center</align>
-                    <texturefocus>tvguide-touch_down_focus.png</texturefocus>
-                    <texturenofocus>tvguide-touch_down.png</texturenofocus>
-                </control>
-                <control type="button" id="4305">
-                    <description>navigate right</description>
-                    <posx>730</posx>
-                    <posy>660</posy>
-                    <width>40</width>
-                    <height>40</height>
-                    <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <label></label>
-                    <aligny>center</aligny>
-                    <align>center</align>
-                    <texturefocus>tvguide-touch_right_focus.png</texturefocus>
-                    <texturenofocus>tvguide-touch_right.png</texturenofocus>
-                </control>
-
-                <control type="button" id="4306">
-                    <description>exit</description>
-                    <posx>1205</posx>
-                    <posy>660</posy>
-                    <width>70</width>
+                    <posx>200</posx>
+                    <posy>10</posy>
+                    <width>100</width>
                     <height>50</height>
+                    <label>$ADDON[script.renegadestv 30006]</label>
                     <textcolor>ffffffff</textcolor>
-                    <font>DefaultCaps</font>
-                    <label>EXIT</label>
+                    <font>font13</font>
                     <aligny>center</aligny>
                     <align>center</align>
                     <texturefocus>tvguide-program-grey-focus.png</texturefocus>
                     <texturenofocus>tvguide-program-grey.png</texturenofocus>
                 </control>
+
+                <control type="button" id="4302">
+                    <description>navigate left</description>
+                    <posx>340</posx>
+                    <posy>10</posy>
+                    <width>100</width>
+                    <height>50</height>
+                    <textcolor>ffffffff</textcolor>
+                    <font>font13</font>
+                    <label>&lt;</label>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>tvguide-program-grey-focus.png</texturefocus>
+                    <texturenofocus>tvguide-program-grey.png</texturenofocus>
+                </control>
+                <control type="button" id="4303">
+                    <description>navigate up</description>
+                    <posx>450</posx>
+                    <posy>10</posy>
+                    <width>100</width>
+                    <height>50</height>
+                    <textcolor>ffffffff</textcolor>
+                    <font>font13</font>
+                    <label>^</label>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>tvguide-program-grey-focus.png</texturefocus>
+                    <texturenofocus>tvguide-program-grey.png</texturenofocus>
+                </control>
+                <control type="button" id="4304">
+                    <description>navigate down</description>
+                    <posx>560</posx>
+                    <posy>10</posy>
+                    <width>100</width>
+                    <height>50</height>
+                    <textcolor>ffffffff</textcolor>
+                    <font>font13</font>
+                    <label>v</label>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>tvguide-program-grey-focus.png</texturefocus>
+                    <texturenofocus>tvguide-program-grey.png</texturenofocus>
+                </control>
+                <control type="button" id="4305">
+                    <description>navigate right</description>
+                    <posx>670</posx>
+                    <posy>10</posy>
+                    <width>100</width>
+                    <height>50</height>
+                    <textcolor>ffffffff</textcolor>
+                    <font>font13</font>
+                    <label>&gt;</label>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>tvguide-program-grey-focus.png</texturefocus>
+                    <texturenofocus>tvguide-program-grey.png</texturenofocus>
+                </control>
+
+                <control type="button" id="4306">
+                    <description>exit</description>
+                    <posx>1220</posx>
+                    <posy>10</posy>
+                    <width>50</width>
+                    <height>50</height>
+                    <textcolor>ffffffff</textcolor>
+                    <font>font13</font>
+                    <label>X</label>
+                    <aligny>center</aligny>
+                    <align>center</align>
+                    <texturefocus>tvguide-program-grey-focus.png</texturefocus>
+                    <texturenofocus>tvguide-program-grey.png</texturenofocus>
+                </control>
+
             </control>
 
         </control><!-- id="5000" -->
