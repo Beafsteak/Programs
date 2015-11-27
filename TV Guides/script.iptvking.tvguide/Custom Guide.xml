@@ -1,0 +1,332 @@
+
+  <channel id="King 1">
+    <display-name lang="en">PPV 1</display-name>
+  </channel>
+  <channel id="King 2">
+    <display-name lang="en">PPV 2</display-name>
+  </channel>
+  <channel id="King 3">
+    <display-name lang="en">PPV 3</display-name>
+  </channel>
+  <channel id="King 4">
+    <display-name lang="en">PPV 4</display-name>
+  </channel>
+  <channel id="King 5">
+    <display-name lang="en">PPV 5</display-name>
+  </channel>
+  <channel id="King 6">
+    <display-name lang="en">PPV 6</display-name>
+  </channel>
+  <channel id="King 7">
+    <display-name lang="en">PPV 7</display-name>
+  </channel>
+  <channel id="King 8">
+    <display-name lang="en">PPV 8</display-name>
+  </channel>
+  <channel id="King 9">
+    <display-name lang="en">PPV 9</display-name>
+  </channel>
+  <channel id="King 10">
+    <display-name lang="en">PPV 10</display-name>
+  </channel>
+  <channel id="King 11">
+    <display-name lang="en">NHL Center Ice 1</display-name>
+  </channel>
+  <channel id="King 12">
+    <display-name lang="en">NHL Center Ice 2</display-name>
+  </channel>
+  <channel id="King 13">
+    <display-name lang="en">NHL Center Ice 3</display-name>
+  </channel>
+  <channel id="King 14">
+    <display-name lang="en">NHL Center Ice 4</display-name>
+  </channel>
+  <channel id="King 15">
+    <display-name lang="en">NHL Center Ice 5</display-name>
+  </channel>
+  <channel id="King 16">
+    <display-name lang="en">NHL Center Ice 6</display-name>
+  </channel>
+  <channel id="King 17">
+    <display-name lang="en">NBA League Pass 1</display-name>
+  </channel>
+  <channel id="King 18">
+    <display-name lang="en">NBA League Pass 2</display-name>
+  </channel>
+  <channel id="King 19">
+    <display-name lang="en">NBA League Pass 3</display-name>
+  </channel>
+  <channel id="King 20">
+    <display-name lang="en">NBA League Pass 4</display-name>
+  </channel>
+  <channel id="King 21">
+    <display-name lang="en">NBA League Pass 5</display-name>
+  </channel>
+  <channel id="King 22">
+    <display-name lang="en">NBA League Pass 6</display-name>
+  </channel>
+  <channel id="King 23">
+    <display-name lang="en">NFL Sunday Ticket 1</display-name>
+  </channel>
+  <channel id="King 24">
+    <display-name lang="en">NFL Sunday Ticket 2</display-name>
+  </channel>
+  <channel id="King 25">
+    <display-name lang="en">NFL Sunday Ticket 3</display-name>
+  </channel>
+  <channel id="King 26">
+    <display-name lang="en">NFL Sunday Ticket 4</display-name>
+  </channel>
+  <channel id="King 27">
+    <display-name lang="en">NFL Sunday Ticket 5</display-name>
+  </channel>
+  <channel id="King 28">
+    <display-name lang="en">NFL Sunday Ticket 6</display-name>
+  </channel>
+  <channel id="King 29">
+    <display-name lang="en">NFL Sunday Ticket 7</display-name>
+  </channel>
+  <channel id="King 30">
+    <display-name lang="en">NFL Redzone</display-name>
+  </channel>
+  
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 1">
+    <title lang="en">PPV 1</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 1">
+    <title lang="en">PPV 1</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 2">
+    <title lang="en">PPV 2</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 2">
+    <title lang="en">PPV 2</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 3">
+    <title lang="en">PPV 3</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 3">
+    <title lang="en">PPV 3</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 4">
+    <title lang="en">PPV 4</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 4">
+    <title lang="en">PPV 4</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 5">
+    <title lang="en">PPV 5</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 5">
+    <title lang="en">PPV 5</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 6">
+    <title lang="en">PPV 6</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 6">
+    <title lang="en">PPV 6</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 7">
+    <title lang="en">PPV 7</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 7">
+    <title lang="en">PPV 7</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 8">
+    <title lang="en">PPV 8</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 8">
+    <title lang="en">PPV 8</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 9">
+    <title lang="en">PPV 9</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 9">
+    <title lang="en">PPV 9</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 10">
+    <title lang="en">PPV 10</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 10">
+    <title lang="en">PPV 10</title>
+    <desc lang="en">This Channel is for you to link PPV or whatever you choose.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 11">
+    <title lang="en">NHL Center Ice 1</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 11">
+    <title lang="en">NHL Center Ice 1</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 12">
+    <title lang="en">NHL Center Ice 2</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 12">
+    <title lang="en">NHL Center Ice 2</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 13">
+    <title lang="en">NHL Center Ice 3</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 13">
+    <title lang="en">NHL Center Ice 3</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 14">
+    <title lang="en">NHL Center Ice 4</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 14">
+    <title lang="en">NHL Center Ice 4</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 15">
+    <title lang="en">NHL Center Ice 5</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 15">
+    <title lang="en">NHL Center Ice 5</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 16">
+    <title lang="en">NHL Center Ice 6</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 16">
+    <title lang="en">NHL Center Ice 6</title>
+    <desc lang="en">NHL Center Ice.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 17">
+    <title lang="en">NBA League Pass 1</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 17">
+    <title lang="en">NBA League Pass 1</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 18">
+    <title lang="en">NBA League Pass 2</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 18">
+    <title lang="en">NBA League Pass 2</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 19">
+    <title lang="en">NBA League Pass 3</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 19">
+    <title lang="en">NBA League Pass 3</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 20">
+    <title lang="en">NBA League Pass 4</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 20">
+    <title lang="en">NBA League Pass 4</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 21">
+    <title lang="en">NBA League Pass 5</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 21">
+    <title lang="en">NBA League Pass 5</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 22">
+    <title lang="en">NBA League Pass 6</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 22">
+    <title lang="en">NBA League Pass 6</title>
+    <desc lang="en">NBA League Pass.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 23">
+    <title lang="en">NFL Sunday Ticket 1</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 23">
+    <title lang="en">NFL Sunday Ticket 1</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 24">
+    <title lang="en">NFL Sunday Ticket 2</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 24">
+    <title lang="en">NFL Sunday Ticket 2</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 25">
+    <title lang="en">NFL Sunday Ticket 3</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 25">
+    <title lang="en">NFL Sunday Ticket 3</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 26">
+    <title lang="en">NFL Sunday Ticket 4</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 26">
+    <title lang="en">NFL Sunday Ticket 4</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 27">
+    <title lang="en">NFL Sunday Ticket 5</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 27">
+    <title lang="en">NFL Sunday Ticket 5</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 28">
+    <title lang="en">NFL Sunday Ticket 6</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 28">
+    <title lang="en">NFL Sunday Ticket 6</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 29">
+    <title lang="en">NFL Sunday Ticket 7</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 29">
+    <title lang="en">NFL Sunday Ticket 7</title>
+    <desc lang="en">NFL Sunday Ticket.</desc>
+  </programme>
+  <programme start="20151126000000 +0100" stop="20151126235900 +0100" channel="King 30">
+    <title lang="en">NFL REDZONE</title>
+    <desc lang="en">REDZONE.</desc>
+  </programme>
+  <programme start="20151127000000 +0100" stop="20151127235900 +0100" channel="King 30">
+    <title lang="en">NFL REDZONE</title>
+    <desc lang="en">REDZONE.</desc>
+  </programme>
