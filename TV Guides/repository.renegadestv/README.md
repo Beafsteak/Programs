@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# repository.renegades
-Renegades's Kodi Repository
+# script.iptvking.tvguide
+TheKing-Kodi Repository
 =======
-# repository.renegadestv
+# TheKing-Kodi
 >>>>>>> origin/master
