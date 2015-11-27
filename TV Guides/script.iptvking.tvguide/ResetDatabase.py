@@ -27,8 +27,8 @@ import xbmcaddon
 
 def deleteDB():
     try:
-        xbmc.log("[script.iptvking.tvguide] Deleting database...", xbmc.LOGDEBUG)
-        dbPath = xbmc.translatePath(xbmcaddon.Addon(id = 'script.iptvking.tvguide').getAddonInfo('profile'))
+        xbmc.log("[script.renegadestv] Deleting database...", xbmc.LOGDEBUG)
+        dbPath = xbmc.translatePath(xbmcaddon.Addon(id = 'script.renegadestv').getAddonInfo('profile'))
         dbPath = os.path.join(dbPath, 'source.db')
 
         delete_file(dbPath)
@@ -36,14 +36,14 @@ def deleteDB():
         passed = not os.path.exists(dbPath)
 
         if passed:
-            xbmc.log("[script.iptvking.tvguide] Deleting database...PASSED", xbmc.LOGDEBUG)
+            xbmc.log("[script.renegadestv] Deleting database...PASSED", xbmc.LOGDEBUG)
         else:
-            xbmc.log("[script.iptvking.tvguide] Deleting database...FAILED", xbmc.LOGDEBUG)
+            xbmc.log("[script.renegadestv] Deleting database...FAILED", xbmc.LOGDEBUG)
 
         return passed
 
     except Exception, e:
-        xbmc.log('[script.iptvking.tvguide] Deleting database...EXCEPTION', xbmc.LOGDEBUG)
+        xbmc.log('[script.renegadestv] Deleting database...EXCEPTION', xbmc.LOGDEBUG)
         return False
 
 def delete_file(filename):
@@ -58,8 +58,8 @@ def delete_file(filename):
 if __name__ == '__main__':
     if deleteDB():
         d = xbmcgui.Dialog()
-        d.ok('FTV Guide', 'The database has been successfully deleted.', 'It will be re-created next time you start the guide')
+        d.ok('Renegades TV', 'The database has been successfully deleted.', 'It will be re-created next time you start the guide')
     else:
         d = xbmcgui.Dialog()
-        d.ok('FTV Guide', 'Failed to delete database.', 'Database may be locked,', 'please restart XBMC and try again')
+        d.ok('Renegades TV', 'Failed to delete database.', 'Database may be locked,', 'please restart XBMC and try again')
 

@@ -30,7 +30,7 @@ import xbmcaddon
 class StreamsService(object):
     def __init__(self, addon):
         if (int(addon.getSetting('addons.ini.type')) == 0):
-            path = xbmc.translatePath(os.path.join('special://profile', 'addon_data', 'script.iptvking.tvguide', 'addons2.ini'))
+            path = xbmc.translatePath(os.path.join('special://profile', 'addon_data', 'script.renegadestv', 'addons2.ini'))
         else:
             path = str(addon.getSetting('addons.ini.file'))
 
