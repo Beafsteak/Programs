@@ -27,8 +27,8 @@ import xbmcaddon
 
 def deleteDB():
     try:
-        xbmc.log("[script.renegadestv] Deleting database...", xbmc.LOGDEBUG)
-        dbPath = xbmc.translatePath(xbmcaddon.Addon(id = 'script.renegadestv').getAddonInfo('profile'))
+        xbmc.log("[script.iptvkingguide] Deleting database...", xbmc.LOGDEBUG)
+        dbPath = xbmc.translatePath(xbmcaddon.Addon(id = 'script.iptvkingguide').getAddonInfo('profile'))
         dbPath = os.path.join(dbPath, 'source.db')
 
         delete_file(dbPath)
@@ -36,14 +36,14 @@ def deleteDB():
         passed = not os.path.exists(dbPath)
 
         if passed:
-            xbmc.log("[script.renegadestv] Deleting database...PASSED", xbmc.LOGDEBUG)
+            xbmc.log("[script.iptvkingguide] Deleting database...PASSED", xbmc.LOGDEBUG)
         else:
-            xbmc.log("[script.renegadestv] Deleting database...FAILED", xbmc.LOGDEBUG)
+            xbmc.log("[script.iptvkingguide] Deleting database...FAILED", xbmc.LOGDEBUG)
 
         return passed
 
     except Exception, e:
-        xbmc.log('[script.renegadestv] Deleting database...EXCEPTION', xbmc.LOGDEBUG)
+        xbmc.log('[script.iptvkingguide] Deleting database...EXCEPTION', xbmc.LOGDEBUG)
         return False
 
 def delete_file(filename):
