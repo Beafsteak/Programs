@@ -336,7 +336,7 @@ class TVGuide(xbmcgui.WindowXML):
             if program is not None:
                 self._showContextMenu(program)
         else:
-            xbmc.log('[script.renegadestv] Unhandled ActionId: ' + str(action.getId()), xbmc.LOGDEBUG)
+            xbmc.log('[script.iptvkingguide] Unhandled ActionId: ' + str(action.getId()), xbmc.LOGDEBUG)
 
     def onClick(self, controlId):
         if controlId in [self.C_MAIN_LOADING_CANCEL, self.C_MAIN_MOUSE_EXIT]:

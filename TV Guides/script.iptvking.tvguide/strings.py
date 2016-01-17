@@ -22,7 +22,7 @@
 #
 import xbmcaddon
 
-ADDON = xbmcaddon.Addon(id = 'script.renegadestv')
+ADDON = xbmcaddon.Addon(id = 'script.iptvkingguide')
 
 NO_DESCRIPTION = 30000
 CALCULATING_REMAINING_TIME = 30002

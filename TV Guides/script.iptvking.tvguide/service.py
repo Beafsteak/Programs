@@ -46,10 +46,10 @@ class Service(object):
         self.database.close(None)
 
 try:
-    ADDON = xbmcaddon.Addon(id = 'script.renegadestv')
+    ADDON = xbmcaddon.Addon(id = 'script.iptvkingguide')
     if ADDON.getSetting('cache.data.on.xbmc.startup') == 'true':
         Service()
 except source.SourceNotConfiguredException:
     pass  # ignore
 except Exception, ex:
-    xbmc.log('[script.renegadestv] Uncaugt exception in service.py: %s' % str(ex) , xbmc.LOGDEBUG)
+    xbmc.log('[script.iptvkingguide] Uncaugt exception in service.py: %s' % str(ex) , xbmc.LOGDEBUG)

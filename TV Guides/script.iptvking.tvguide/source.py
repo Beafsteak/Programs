@@ -850,7 +850,7 @@ class XMLTVSource(Source):
             os.makedirs(XMLTVSource.PLUGIN_DATA)
 
         if (self.logoSource == XMLTVSource.LOGO_SOURCE_FTV):
-            self.logoFolder = XMLTVSource.FTV_URL + 'Logos/'
+            self.logoFolder = 'https://raw.githubusercontent.com/macblizzard/dnatvguide-kodi/master/logos/'
         else:
             self.logoFolder = str(addon.getSetting('logos.folder'))
 
