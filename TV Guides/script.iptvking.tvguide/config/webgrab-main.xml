@@ -17,174 +17,224 @@
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
 <channels>    
-    <channel update="i" site="ustvnow.com" site_id="ABC" xmltv_id="ABC">ABC New York</channel>
-    <channel update="i" site="ustvnow.com" site_id="CBS" xmltv_id="CBS">CBS New York</channel>
-    <channel update="i" site="ustvnow.com" site_id="NBC" xmltv_id="NBC">NBC New York</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/cnbc" xmltv_id="CNBC">CNBC</channel>
-	<channel update="i" site="ustvnow.com" site_id="Fox News Channel" xmltv_id="Fox News Channel">FOX News</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="257" xmltv_id="Sky News">Sky News</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="66" xmltv_id="BBC News">BBC News</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/cnn-hd" xmltv_id="CNN HD">CNN</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="127" xmltv_id="Discovery">Discovery Channel</channel>
+    <channel update="i" site="tv.com" site_id="69048654" xmltv_id="WABC (ABC)">ABC</channel>
+	<channel update="i" site="tv.com" site_id="69031566" xmltv_id="ABC Family Channel HDTV (East) (ABCF)">ABC Family</channel>
+    <channel update="i" site="tv.com" site_id="69048687" xmltv_id="KCBS (CBS)">CBS</channel>
+	<channel update="i" site="tv.com" site_id="69022186" xmltv_id="KTTV HDTV (FOX)">FOX</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="488" xmltv_id="FOX HD">FOX UK</channel>
+    <channel update="i" site="tv.com" site_id="69049209" xmltv_id="KNBC (NBC)">NBC</channel>
+	<channel update="i" site="tv.com" site_id="69023824" xmltv_id="XETV (CW)">The CW</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="865" xmltv_id="TLC">TLC</channel>
+	<channel update="i" site="tv.com" site_id="69048828" xmltv_id="Oxygen (East) (OXYGN)">Oxygen</channel>
+	<channel update="i" site="tv.com" site_id="69030731" xmltv_id="USA Network HDTV (East) (USAHD)">USA Network</channel>
+	<channel update="i" site="tv.com" site_id="69031237" xmltv_id="Spike TV HDTV (East) (SPKHD)">Spike</channel>
+	<channel update="i" site="tv.com" site_id="69023795" xmltv_id="WGN America (WGNA)">WGN America</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="127" xmltv_id="Discovery">Discovery</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="134" xmltv_id="Discovery Science">Discovery Science</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="386" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="129" xmltv_id="Discovery History">Discovery History</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="397" xmltv_id="Discovery Shed">Discovery Shed</channel>
+	<channel update="i" site="tv.com" site_id="69022688" xmltv_id="Discovery Family Channel SDTV (DFCH)">Discovery Family</channel>
+	<channel update="i" site="tv.com" site_id="69037516" xmltv_id="Do It Yourself Network HDTV (East) (DIYHD)">DIY Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="535" xmltv_id="Investigation Discovery">ID</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="58" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="735" xmltv_id="Animal Planet HD">Animal Planet</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="408" xmltv_id="National Geographic HD">Nat Geo</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="407" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="160" xmltv_id="HISTORY">HISTORY</channel>
+	<channel update="i" site="tv.com" site_id="69021518" xmltv_id="Yankees Television (YES)">YES!</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="527" xmltv_id="HISTORY HD">History</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="394" xmltv_id="CI">CI</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="505" xmltv_id="H2">H2</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="116" xmltv_id="Cartoon Network">Cartoon Network</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:431" xmltv_id="(Eastern)Nickelodeon (East)">Nickelodeon</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="588" xmltv_id="Disney XD">Disney XD Norte</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="724" xmltv_id="Cartoon Network HD">Cartoon Network</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="681" xmltv_id="Nickelodeon HD">Nickelodeon</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="211" xmltv_id="Nick Jr">Nick Junior</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="588" xmltv_id="Disney XD">Disney XD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="281" xmltv_id="Disney Channel">Disney Channel</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="713" xmltv_id="Disney Junior">Disney Junior</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="118" xmltv_id="CBBC">CBBC</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="119" xmltv_id="CBeebies">CBeebies</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="211" xmltv_id="Nick Jr">NickJr</channel>
-	<channel update="i" site="ustvnow.com" site_id="AETV" xmltv_id="AETV">A and E</channel>
-    <channel update="i" site="ustvnow.com" site_id="AMC" xmltv_id="AMC">AMC</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:26" xmltv_id="(Eastern)Comedy Central (East)">Comedy Central</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:15702" xmltv_id="(Eastern)ESPNU">ESPNU</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:2006" xmltv_id="(Eastern)Food Network (East)">Food Network</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:398" xmltv_id="(Eastern)FX (East)">FX</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:438" xmltv_id="(Eastern)Lifetime Television (East)">Lifetime</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:425" xmltv_id="(Eastern)Spike TV (East)">Spike</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:432" xmltv_id="(Eastern)USA Network (East)">USA Network</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:427" xmltv_id="(Eastern)Turner Network Television (East)">TNT</channel>
-	<channel update="i" site="tvguide.com" site_id="(srvID80001)Number:*,SourceId:410" xmltv_id="(Eastern)TBS Superstation (East)">TBS</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/we-tv" xmltv_id="WE tv">WE tv</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="138" xmltv_id="E!">E! entertainment</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="836" xmltv_id="Baby TV">Baby TV</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="113" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.com" site_id="69047124" xmltv_id="AMC (East) (AMC)">AMC</channel>
+    <channel update="i" site="tv.com" site_id="69030779" xmltv_id="Bravo HDTV (East) (BRAVOD)">Bravo</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="664" xmltv_id="Comedy Central HD">ComedyCentral</channel>
+    <channel update="i" site="tv.com" site_id="69031021" xmltv_id="FX HDTV (East) (FX HD)">FX</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="888" xmltv_id="Lifetime HD">Lifetime</channel>
+    <channel update="i" site="tv.com" site_id="69024381" xmltv_id="Turner Network Television HDTV (East) (TNTHD)">TNT</channel>
+    <channel update="i" site="tv.com" site_id="69026484" xmltv_id="TBS Superstation HDTV (East) (TBSHD)">TBS</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/hgtv-hd-hghd" xmltv_id="(Eastern)Home &amp; Garden Television HD (HGHD)">HGTVHD</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/we-tv" xmltv_id="WE tv">WE</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="669" xmltv_id="Good Food HD">Good Food</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="596" xmltv_id="Food Network">Food Network</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="595" xmltv_id="Food Network +1">Food Network+1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="138" xmltv_id="E!">E!</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="289" xmltv_id="Travel Channel">Travel Channel</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="923" xmltv_id="truTV">truTV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="385" xmltv_id="CBS Reality">CBS Reality</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="424" xmltv_id="CBS Reality +1">CBS Reality+1</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="498" xmltv_id="CBS Action">CBS Action</channel>
     <channel update="i" site="tvguide.co.uk" site_id="493" xmltv_id="CBS Drama">CBS Drama</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="375" xmltv_id="5USA">5 USA</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="453" xmltv_id="True Movies">True Movies</channel>
+	<channel update="i" site="tv.com" site_id="69046839" xmltv_id="American Heroes Channel (AHC)">American Heroes Channel</channel>
+	<channel update="i" site="tv.com" site_id="69031131" xmltv_id="IFC HDTV (East) (IFCHD)">IFC</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="861" xmltv_id="True Drama">True Drama</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="453" xmltv_id="True Movies">True Movies 1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="499" xmltv_id="True Movies 2">True Movies 2</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/showtime/5129" xmltv_id="Showtime">Showtime East</channel>
-    <channel update="i" site="locatetv.com" site_id="/listings/showtime-beyond" xmltv_id="Showtime Beyond">Showtime Beyond</channel>
-    <channel update="i" site="locatetv.com" site_id="/listings/showtime-next" xmltv_id="Showtime Next">Showtime Next</channel>
-    <channel update="i" site="locatetv.com" site_id="/listings/showtime-showcase" xmltv_id="Showtime Showcase">Showtime Showcase</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/showtime-extreme" xmltv_id="Showtime Extreme">Showtime Extreme</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hallmark-channel" xmltv_id="Hallmark Channel">Hallmark Channel</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hbo" xmltv_id="HBO">HBO East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hbo2" xmltv_id="HBO2">HBO 2 East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hbo-comedy" xmltv_id="HBO Comedy">HBO Comedy East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hbo-zone" xmltv_id="HBO Zone">HBO Zone</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/hbo-signature" xmltv_id="HBO Signature">HBO Signature</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/actionmax" xmltv_id="ActionMAX">ActionMAX</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz" xmltv_id="Starz">Starz</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-pacific" xmltv_id="Starz (Pacific)">Starz West</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-edge" xmltv_id="Starz Edge">Starz Edge East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-cinema" xmltv_id="Starz Cinema">Starz Cinema East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-comedy" xmltv_id="Starz Comedy">Starz Comedy East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-in-black" xmltv_id="Starz in Black">Starz In Black East</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/starz-kids" xmltv_id="Starz Kids">Starz kids Family East</channel>
+	<channel update="i" site="tv.com" site_id="69047004" xmltv_id="Showtime (East) (SHO)">Showtime</channel>
+	<channel update="i" site="tv.com" site_id="69030993" xmltv_id="Showtime 2 HDTV (East) (SHO2HD)">Showtime 2</channel>
+	<channel update="i" site="tv.com" site_id="69022150" xmltv_id="Showtime HDTV (West) (SHOHD)">Showtime West</channel>
+    <channel update="i" site="tv.com" site_id="69037541" xmltv_id="Showtime Beyond HDTV (East) (SHBYD)">Showtime Beyond</channel>
+    <channel update="i" site="tv.com" site_id="69037597" xmltv_id="Showtime Next East HDTV (East) (SHOND)">Showtime Next</channel>
+    <channel update="i" site="tv.com" site_id="69032257" xmltv_id="Showtime Showcase HDTV (East) (SHOCHD)">Showtime Showcase</channel>
+	<channel update="i" site="tv.com" site_id="69046748" xmltv_id="Showtime Extreme (East) (SHOXE)">Showtime Extreme</channel>
+	<channel update="i" site="tv.com" site_id="69024152" xmltv_id="Encore HDTV (East) (ENCHD)">Encore</channel>
+	<channel update="i" site="tv.com" site_id="69040331" xmltv_id="Encore Action HDTV (East) (ENCAHD)">Encore Action</channel>
+	<channel update="i" site="tv.com" site_id="69024055" xmltv_id="The Movie Channel HDTV (East) (TMCHD)">The Movie Channel</channel>
+	<channel update="i" site="tv.com" site_id="69032261" xmltv_id="The Movie Channel Xtra HDTV (East) (TMCXHD)">The Movie Channel Extra</channel>
+	<channel update="i" site="tv.com" site_id="69031379" xmltv_id="Hallmark Movies and Mysteries HDTV (HMMHD)">Hallmark Channel</channel>
+	<channel update="i" site="tv.com" site_id="666275455" xmltv_id="FXX (East) (FXX)">FXX</channel>
+	<channel update="i" site="tv.com" site_id="69046988" xmltv_id="HBO (East) (HBO)">HBO</channel>
+	<channel update="i" site="tv.com" site_id="69022152" xmltv_id="HBO HDTV (West) (HBOHD)">HBO West</channel>
+	<channel update="i" site="tv.com" site_id="69022958" xmltv_id="HBO 2 (East) (HBO2)">HBO2</channel>
+	<channel update="i" site="tv.com" site_id="69031760" xmltv_id="HBO 2 HDTV (West) (HBO2HW)">HBO2 West</channel>
+	<channel update="i" site="tv.com" site_id="69031638" xmltv_id="HBO Comedy HDTV (East) (HBOCHD)">HBO Comedy</channel>
+	<channel update="i" site="tv.com" site_id="69032418" xmltv_id="HBO Family (East) (HBOFE)">HBO Family</channel>
+	<channel update="i" site="tv.com" site_id="69031763" xmltv_id="HBO Zone HDTV (East) (HBOZHD)">HBO Zone</channel>
+	<channel update="i" site="tv.com" site_id="69032052" xmltv_id="HBO Signature (East) (HBOSGE)">HBO Signature</channel>
+    <channel update="i" site="tv.com" site_id="69023856" xmltv_id="Cinemax HDTV (East) (MAXHD)">Cinemax East</channel>
+    <channel update="i" site="tv.com" site_id="69023857" xmltv_id="Cinemax HDTV (West) (MAXHDW)">Cinemax West</channel>
+	<channel update="i" site="tv.com" site_id="69031641" xmltv_id="ActionMAX HDTV (East) (AMXHD)">ActionMAX East</channel>
+	<channel update="i" site="tv.com" site_id="69031882" xmltv_id="ThrillerMAX HDTV (East) (TMXHD)">ThrillerMAX</channel>
+    <channel update="i" site="tv.com" site_id="69031881" xmltv_id="Five Star Max HDTV (5MXHD)">Five Star Max</channel>
+	<channel update="i" site="tv.com" site_id="69047025" xmltv_id="Starz (East) (STARZ)">Starz East</channel>
+	<channel update="i" site="tv.com" site_id="69035609" xmltv_id="Starz (West) (STARZW)">Starz West</channel>
+	<channel update="i" site="tv.com" site_id="69023464" xmltv_id="Starz Edge (East) (STZE)">Starz Edge East</channel>
+	<channel update="i" site="tv.com" site_id="69035051" xmltv_id="Starz! Cinema HDTV (East) (STZCHD)">Starz Cinema East</channel>
+	<channel update="i" site="tv.com" site_id="69030627" xmltv_id="Starz Comedy HDTV (East) (SZCHD)">Starz Comedy East</channel>
+	<channel update="i" site="tv.com" site_id="69031552" xmltv_id="Starz In Black (East) (STRZIB)">Starz In Black</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/starz-kids" xmltv_id="Starz Kids">Starz Family</channel>
+	<channel update="i" site="radiotimes.com.xmltv" site_id="2160" xmltv_id="Sky Movies Greats HD">Sky Greats</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="513" xmltv_id="Sky Movies Drama &amp; Romance HD">Sky Drama</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="248" xmltv_id="Sky Movies Premiere">Sky Premiere</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="637" xmltv_id="Sky Movies Showcase">Sky Showcase</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="250" xmltv_id="Sky Movies Comedy">Sky Comedy</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="251" xmltv_id="Sky Movies Action &amp; Adventure">Sky Action</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="512" xmltv_id="Sky Movies Modern Greats">Sky Modern Greats</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="850" xmltv_id="Sky Movies Disney">Sky Disney</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="252" xmltv_id="Sky Movies Family">Sky Family</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="614" xmltv_id="Sky Movies Crime &amp; Thriller">Sky Thriller</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="524" xmltv_id="Sky Movies Sci-fi &amp; Horror">Sky Movies Sci-fi Horror</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="524" xmltv_id="Sky Movies Sci-fi &amp; Horror">Sky Sci-fiHorror</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="380" xmltv_id="Sky Movies Select">Sky Select</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="703" xmltv_id="Sky Atlantic HD">Sky Atlantic</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="820" xmltv_id="TCM HD">TCM</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="378" xmltv_id="Movies 24">Movies 24</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="660" xmltv_id="Film4 HD">Film4</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="742" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="74" xmltv_id="BBC 1 London">BBC One</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="93" xmltv_id="BBC 2 London">BBC Two</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="108" xmltv_id="BBC3">BBC THREE</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="109" xmltv_id="BBC4">BBC FOUR</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="172" xmltv_id="ITV London">ITV1</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="180" xmltv_id="ITV2">ITV2</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="360" xmltv_id="ITV3">ITV3</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="367" xmltv_id="ITV4">ITV4</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="910" xmltv_id="ITV Encore">ITV Encore</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="926" xmltv_id="ITVBe">ITVBe</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="121" xmltv_id="Channel 4">Channel 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="148" xmltv_id="Channel 5">Channel 5</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="258" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="258" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="553" xmltv_id="Sky Arts 2 HD">Sky Arts 2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="183" xmltv_id="Sky Living">Sky Living</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="704" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="511" xmltv_id="Watch">Watch</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="517" xmltv_id="GOLD">Gold</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="517" xmltv_id="GOLD">GOLD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="432" xmltv_id="Dave">Dave</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="157" xmltv_id="Universal Channel">Studio Universal</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="238" xmltv_id="Syfy">Syfy</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="157" xmltv_id="Universal Channel">Universal Channel</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="642" xmltv_id="ITV HD">ITV1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="697" xmltv_id="ITV1 +1">ITV1+1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="180" xmltv_id="ITV2">ITV2</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="376" xmltv_id="ITV2 +1">ITV2+1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="360" xmltv_id="ITV3">ITV3</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="474" xmltv_id="ITV3 +1">ITV3+1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="367" xmltv_id="ITV4">ITV4</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="530" xmltv_id="ITV4 +1">ITV4+1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="910" xmltv_id="ITV Encore">ITV Encore</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="926" xmltv_id="ITVBe">ITVBe</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="540" xmltv_id="Eden">Eden</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="320" xmltv_id="YESTERDAY">YESTERDAY</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="154" xmltv_id="FOX">Fox</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="865" xmltv_id="TLC">TLC</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="520" xmltv_id="Alibi">Alibi</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="320" xmltv_id="YESTERDAY">Yesterday</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="520" xmltv_id="Alibi">alibi</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="139" xmltv_id="E4">E4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="361" xmltv_id="More4">More4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="752" xmltv_id="4seven">4seven</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="454" xmltv_id="DMAX">DMAX</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="120" xmltv_id="Challenge">Challenge</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="342" xmltv_id="RTÉ One">RTE One</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="363" xmltv_id="RTÉ Two">RTE Two</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="342" xmltv_id="RTÉ One">RTE1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="363" xmltv_id="RTÉ Two">RTE2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="349" xmltv_id="TG4">TG4</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="369" xmltv_id="Pick">Pick</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="369" xmltv_id="Pick">PICK TV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="559" xmltv_id="QUEST">QUEST</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="871" xmltv_id="Drama">Drama</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="374" xmltv_id="5*">5 Star</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="315" xmltv_id="Good Food">Good Food UK</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="422" xmltv_id="Really">Really</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="633" xmltv_id="TrueEntertainment">True Entertainment</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="145" xmltv_id="Film4">Film4</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="404" xmltv_id="Motors TV">Motors TV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="260" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="261" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="262" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="264" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="918" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="736" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="263" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="737" xmltv_id="Sky Sports F1 HD">Sky Sports F1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="263" xmltv_id="Sky Sports News">Sky Sports News HD</channel>
+	<channel update="i" site="tv.com" site_id="69025542" xmltv_id="NTV America (NTVA)">NTV Sport</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="142" xmltv_id="British Eurosport">Eurosport</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="400" xmltv_id="British Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvguide.co.uk" site_id="875" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="876" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="877" xmltv_id="BT Sport 2">BT Sport 2</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="880" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="63" xmltv_id="at the races">At The Races</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="446" xmltv_id="Racing UK">Racing UK</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="925" xmltv_id="BoxNation">Box Nation</channel>
-    <channel update="i" site="en.beinsports.net" site_id="1HD.png" xmltv_id="1HD">bein-sports</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="578" xmltv_id="ESPN">ESPN</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="925" xmltv_id="BoxNation">BoxNation</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="579" xmltv_id="ESPN HD">ESPN</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="426" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/golf-channel" xmltv_id="The Golf Channel">Golf Channel</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/fox-sports-1" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/fuel-tv" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="204" xmltv_id="MUTV">MUTV</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLB Network</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFL Network</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/versus-hd" xmltv_id="NBCSN HD">NBC Sports Network</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/golf-channel" xmltv_id="The Golf Channel">The Golf Channel</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/fox-sports-1" xmltv_id="Fox Sports 1">FoxSports1HD</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/fuel-tv" xmltv_id="Fox Sports 2">FoxSports2HD</channel>
 	<channel update="i" site="astro.com.my" site_id="82" xmltv_id="Astro SuperSport">Astro SuperSport</channel>
 	<channel update="i" site="astro.com.my" site_id="11" xmltv_id="Astro SuperSport 2">Astro SuperSport 2</channel>
 	<channel update="i" site="astro.com.my" site_id="80" xmltv_id="Astro SuperSport 3">Astro SuperSport 3</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="187" xmltv_id="MTV">MTV Latinoamerica</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="190" xmltv_id="MTV Hits">MTV Hits Latinoamerica</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="324" xmltv_id="VH1">VH1</channel>
-	
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 1##description:NHL Center Ice 1####" xmltv_id="NHL Center Ice 1">NHL Center Ice 1</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 2##description:NHL Center Ice 2####" xmltv_id="NHL Center Ice 2">NHL Center Ice 2</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 3##description:NHL Center Ice 3####" xmltv_id="NHL Center Ice 3">NHL Center Ice 3</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 4##description:NHL Center Ice 4####" xmltv_id="NHL Center Ice 4">NHL Center Ice 4</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 5##description:NHL Center Ice 5####" xmltv_id="NHL Center Ice 5">NHL Center Ice 5</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NHL Center Ice 6##description:NHL Center Ice 6####" xmltv_id="NHL Center Ice 6">NHL Center Ice 6</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 1##description:NBA League Pass 1####" xmltv_id="NBA League Pass 1">NBA League Pass 1</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 2##description:NBA League Pass 2####" xmltv_id="NBA League Pass 2">NBA League Pass 2</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 3##description:NBA League Pass 3####" xmltv_id="NBA League Pass 3">NBA League Pass 3</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 4##description:NBA League Pass 4####" xmltv_id="NBA League Pass 4">NBA League Pass 4</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 5##description:NBA League Pass 5####" xmltv_id="NBA League Pass 5">NBA League Pass 5</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NBA League Pass 6##description:NBA League Pass 6####" xmltv_id="NBA League Pass 6">NBA League Pass 6</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 1##description:NFL Sunday Ticket 1####" xmltv_id="NFL Sunday Ticket 1">NFL Sunday Ticket 1</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 2##description:NFL Sunday Ticket 2####" xmltv_id="NFL Sunday Ticket 2">NFL Sunday Ticket 2</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 3##description:NFL Sunday Ticket 3####" xmltv_id="NFL Sunday Ticket 3">NFL Sunday Ticket 3</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 4##description:NFL Sunday Ticket 4####" xmltv_id="NFL Sunday Ticket 4">NFL Sunday Ticket 4</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 5##description:NFL Sunday Ticket 5####" xmltv_id="NFL Sunday Ticket 5">NFL Sunday Ticket 5</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 6##description:NFL Sunday Ticket 6####" xmltv_id="NFL Sunday Ticket 6">NFL Sunday Ticket 6</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NFL Sunday Ticket 7##description:NFL Sunday Ticket 7####" xmltv_id="NFL Sunday Ticket 7">NFL Sunday Ticket 7</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLBNetwork</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFLNETWORK</channel>
+    <channel update="i" site="cthbpl.com" site_id="1565" xmltv_id="STADIUM 2 (CTH 212 SD / 57 HD)">CTH Stadium 2HD</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="204" xmltv_id="MUTV">MUTV</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="66" xmltv_id="BBC News">BBC News</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/cnbc" xmltv_id="CNBC">CNBC</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/cnn-hd" xmltv_id="CNN HD">CNN</channel>
+	<channel update="i" site="tv.com" site_id="69031481" xmltv_id="Fox News Channel HDTV (FNCHD)">Fox News</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="257" xmltv_id="Sky News">Sky News</channel>
+
+
+
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:VOX Music Videos####" xmltv_id="VOX Music Videos">VOX</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="182" xmltv_id="Kiss TV">Kiss TV</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Nashville Music Videos####" xmltv_id="Vevo Nashville Music Videos">Vevo Nashville</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Flow Music Videos####" xmltv_id="Vevo Flow Music Videos">Vevo Flow</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Hits Music Videos####" xmltv_id="Vevo Hits Music Videos">Vevo Hits</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:VH1 Music Videos####" xmltv_id="VH1 Music Videos">VH1</channel>
+
+    <channel update="i" site="directv.com" site_id="770" xmltv_id="NHL Center Ice 770-1 HD (NHLHD)">NHL Center Ice 1</channel>
+    <channel update="i" site="directv.com" site_id="771" xmltv_id="NHL Center Ice 771-1 HD (NHLHD)">NHL Center Ice 2</channel>
+    <channel update="i" site="directv.com" site_id="772" xmltv_id="NHL Center Ice 772-1 HD (NHLHD)">NHL Center Ice 3</channel>
+    <channel update="i" site="directv.com" site_id="773" xmltv_id="NHL Center Ice 773-1 HD (NHLHD)">NHL Center Ice 4</channel>
+    <channel update="i" site="directv.com" site_id="774" xmltv_id="NHL Center Ice 774-1 HD (NHLHD)">NHL Center Ice 5</channel>
+    <channel update="i" site="directv.com" site_id="775" xmltv_id="NHL Center Ice 775-1 HD (NHLHD)">NHL Center Ice 6</channel>
+    <channel update="i" site="directv.com" site_id="750" xmltv_id="NBA League Pass 750 HD (NBAHD)">NBA League Pass 1</channel>
+    <channel update="i" site="directv.com" site_id="751" xmltv_id="NBA League Pass 751 HD (NBAHD)">NBA League Pass 2</channel>
+    <channel update="i" site="directv.com" site_id="752" xmltv_id="NBA League Pass 752 HD (NBAHD)">NBA League Pass 3</channel>
+    <channel update="i" site="directv.com" site_id="753" xmltv_id="NBA League Pass 753 HD (NBAHD)">NBA League Pass 4</channel>
+    <channel update="i" site="directv.com" site_id="754" xmltv_id="NBA League Pass 754 HD (NBAHD)">NBA League Pass 5</channel>
+    <channel update="i" site="directv.com" site_id="755" xmltv_id="NBA League Pass 755 HD (NBAHD)">NBA League Pass 6</channel>
+    <channel update="i" site="tv.com" site_id="69021957" xmltv_id="NFL Sunday Ticket (NFL1)">NFL Sunday Ticket 1</channel>
+    <channel update="i" site="tv.com" site_id="310735440" xmltv_id="NFL Sunday Ticket HDTV (NFL2)">NFL Sunday Ticket 2</channel>
+    <channel update="i" site="tv.com" site_id="69021960" xmltv_id="NFL Sunday Ticket (NFL3)">NFL Sunday Ticket 3</channel>
+    <channel update="i" site="tv.com" site_id="69023707" xmltv_id="NFL Sunday Ticket HDTV (NFLHD)">NFL Sunday Ticket 4</channel>
+    <channel update="i" site="tv.com" site_id="69021962" xmltv_id="NFL Sunday Ticket (NFL5)">NFL Sunday Ticket 5</channel>
+    <channel update="i" site="tv.com" site_id="69021963" xmltv_id="NFL Sunday Ticket (NFL6)">NFL Sunday Ticket 6</channel>
+    <channel update="i" site="tv.com" site_id="69021964" xmltv_id="NFL Sunday Ticket (NFL7)">NFL Sunday Ticket 7</channel>
 	
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:WWE Network - All Day Every Day!!!!!##description:WWE Network - All Day Every Day!!!!!####" xmltv_id="WWE Network">WWE Network</channel>
 	<channel update="i" site="filmon.com" site_id="713" xmltv_id="UFC Next">UFC Next</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC - All Day Every Day!!!!!##description:UFC - All Day Every Day!!!!!####" xmltv_id="ufc">UFC Network</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC - All Day Every Day!!!!!##description:UFC - All Day Every Day!!!!!####" xmltv_id="ufc">ufc</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Home Improvement - All Day Every Day!!!!!##description:Home Improvement - All Day Every Day!!!!!####" xmltv_id="Home Improvement">Home Improvement</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:King Of Queens - All Day Every Day!!!!!##description:King Of Queens - All Day Every Day!!!!!####" xmltv_id="King Of Queens">King Of Queens</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:American Dad - All Day Every Day!!!!!##description:American Dad - All Day Every Day!!!!!####" xmltv_id="American Dad">American Dad</channel>
@@ -291,6 +341,13 @@
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:In the Heart of the Sea##description:In the winter of 1820, the New England whaling ship Essex was assaulted by something no one could believe a whale of mammoth size and will, and an almost human sense of vengeance. The real-life maritime disaster would inspire Herman Melvilles Moby Dick. But that told only half the story. Heart of the Sea reveals the encounters harrowing aftermath, as the ships surviving crew is pushed to their limits and forced to do the unthinkable to stay alive. Braving storms, starvation, panic and despair, the men will call into question their deepest beliefs, from the value of their lives to the morality of their trade, as their captain searches for direction on the open sea and his first mate still seeks to bring the great whale down.####" xmltv_id="In the Heart of the Sea">In the Heart of the Sea</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Legend##description:Tom Hardy plays twins Ronnie and Reggie Kray, who have worked their way through the ranks to become powerful crimelords in London&apos;s underworld in the 1960s.####" xmltv_id="Legend">Legend</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:SPECTRE##description:A cryptic message from Bonds past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.####" xmltv_id="SPECTRE">SPECTRE</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Straight Outta Compton##description:The group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.####" xmltv_id="Straight Outta Compton">Straight Outta Compton</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Black Mass##description:The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.####" xmltv_id="Black Mass">Black Mass</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Ridiculous 6##description:An outlaw who was raised by Native Americans discovers that he has five half-brothers; together the men go on a mission to find their wayward, deadbeat dad.####" xmltv_id="The Ridiculous 6">The Ridiculous 6</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Sisters##description:Two sisters decide to throw one last house party before their parents sell their family home.####" xmltv_id="Sisters">Sisters</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Last Witch Hunter##description:The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.####" xmltv_id="The Last Witch Hunter">The Last Witch Hunter</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Tenacious D in The Pick of Destiny##description:In Venice Beach, naive Midwesterner JB bonds with local slacker KG and they form the rock band Tenacious D. Setting out to become the world's greatest band is no easy feat, so they set out to steal what could be the answer to their prayers -- a magical guitar pick housed in a rock-and-roll museum some 300 miles away.####" xmltv_id="Tenacious D in The Pick of Destiny">Tenacious D in The Pick of Destiny</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Kraz Mixes##description:DJ Kraz Live Mixes - 10 hours of non-stop EDM.####" xmltv_id="Kraz Mixes">Kraz Mixes</channel>
 
   </channels>
 </settings>

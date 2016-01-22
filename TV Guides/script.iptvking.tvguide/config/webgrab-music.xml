@@ -17,19 +17,14 @@
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
 <channels>    
-    <channel update="i" site="tvguide.co.uk" site_id="187" xmltv_id="MTV">MTV MUSIC</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="188" xmltv_id="MTV Base">MTV BASE</channel>
+
 	<channel update="i" site="tvguide.co.uk" site_id="190" xmltv_id="MTV Hits">MTV HITS</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="189" xmltv_id="MTV Dance">MTV DANCE</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="191" xmltv_id="MTV Rocks">MTV ROCKS</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="325" xmltv_id="MTV Classic">MTV CLASSIC</channel>
     <channel update="i" site="tvguide.co.uk" site_id="324" xmltv_id="VH1">VH1</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="286" xmltv_id="Viva">VIVA</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="279" xmltv_id="The Box">The Box</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="267" xmltv_id="Smash Hits!">Smash Hits!</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="185" xmltv_id="Magic TV">Magic</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="240" xmltv_id="Scuzz">Scuzz</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="181" xmltv_id="Kerrang! TV">Kerrang!</channel>
     <channel update="i" site="tvguide.co.uk" site_id="182" xmltv_id="Kiss TV">Kiss TV</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:VOX Music Videos####" xmltv_id="VOX Music Videos">VOX</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Nashville Music Videos####" xmltv_id="Vevo Nashville Music Videos">Vevo Nashville</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Flow Music Videos####" xmltv_id="Vevo Flow Music Videos">Vevo Flow</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Hits Music Videos####" xmltv_id="Vevo Hits Music Videos">Vevo Hits</channel>
+
   </channels>
 </settings>
