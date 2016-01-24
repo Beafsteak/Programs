@@ -3,7 +3,7 @@
    
   <!-- for detailed info about the settings see http://webgrabplus.com/node/30 -->
    
-  <filename>/var/www/kodi/guides/guide.xml</filename>
+  <filename>C:\Users\Todd\Documents\GitHub\TheKing-Kodi\TV Guides\script.iptvking.tvguide\guide.xml</filename>
   <mode></mode>
   <postprocess run="n" grab="y">mdb</postprocess>
   <proxy>automatic</proxy>
@@ -43,7 +43,8 @@
     <channel update="i" site="tvguide.co.uk" site_id="527" xmltv_id="HISTORY HD">History</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="394" xmltv_id="CI">CI</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="505" xmltv_id="H2">H2</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="724" xmltv_id="Cartoon Network HD">Cartoon Network</channel>
+	<channel update="i" site="directv.com" site_id="296" xmltv_id="Cartoon Network (CNe)">Cartoon Network</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="724" xmltv_id="Cartoon Network HD">Cartoon Network UK</channel>
     <channel update="i" site="tvguide.co.uk" site_id="681" xmltv_id="Nickelodeon HD">Nickelodeon</channel>
     <channel update="i" site="tvguide.co.uk" site_id="211" xmltv_id="Nick Jr">Nick Junior</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="588" xmltv_id="Disney XD">Disney XD</channel>
@@ -79,7 +80,6 @@
 	<channel update="i" site="tvguide.co.uk" site_id="453" xmltv_id="True Movies">True Movies 1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="499" xmltv_id="True Movies 2">True Movies 2</channel>
 	<channel update="i" site="tv.com" site_id="69047004" xmltv_id="Showtime (East) (SHO)">Showtime</channel>
-	<channel update="i" site="tv.com" site_id="69030993" xmltv_id="Showtime 2 HDTV (East) (SHO2HD)">Showtime 2</channel>
 	<channel update="i" site="tv.com" site_id="69022150" xmltv_id="Showtime HDTV (West) (SHOHD)">Showtime West</channel>
     <channel update="i" site="tv.com" site_id="69037541" xmltv_id="Showtime Beyond HDTV (East) (SHBYD)">Showtime Beyond</channel>
     <channel update="i" site="tv.com" site_id="69037597" xmltv_id="Showtime Next East HDTV (East) (SHOND)">Showtime Next</channel>
@@ -134,7 +134,6 @@
 	<channel update="i" site="tvguide.co.uk" site_id="121" xmltv_id="Channel 4">Channel 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="148" xmltv_id="Channel 5">Channel 5</channel>
     <channel update="i" site="tvguide.co.uk" site_id="258" xmltv_id="Sky1">Sky1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="553" xmltv_id="Sky Arts 2 HD">Sky Arts 2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="183" xmltv_id="Sky Living">Sky Living</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="511" xmltv_id="Watch">Watch</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="517" xmltv_id="GOLD">GOLD</channel>
@@ -167,20 +166,22 @@
 	<channel update="i" site="tvguide.co.uk" site_id="374" xmltv_id="5*">5 Star</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="422" xmltv_id="Really">Really</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="404" xmltv_id="Motors TV">Motors TV</channel>
+	<channel update="i" site="astro.com.my" site_id="82" xmltv_id="Astro SuperSport">Astro SuperSport</channel>
+	<channel update="i" site="astro.com.my" site_id="11" xmltv_id="Astro SuperSport 2">Astro SuperSport 2</channel>
+	<channel update="i" site="astro.com.my" site_id="80" xmltv_id="Astro SuperSport 3">Astro SuperSport 3</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLBNetwork</channel>
+	<channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFLNETWORK</channel>
+    <channel update="i" site="cthbpl.com" site_id="1565" xmltv_id="STADIUM 2 (CTH 212 SD / 57 HD)">CTH Stadium 2HD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="260" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="261" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="262" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="264" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="918" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
     <channel update="i" site="tvguide.co.uk" site_id="737" xmltv_id="Sky Sports F1 HD">Sky Sports F1</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="263" xmltv_id="Sky Sports News">Sky Sports News HD</channel>
-	<channel update="i" site="tv.com" site_id="69025542" xmltv_id="NTV America (NTVA)">NTV Sport</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="142" xmltv_id="British Eurosport">Eurosport</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="400" xmltv_id="British Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvguide.co.uk" site_id="875" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="876" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="877" xmltv_id="BT Sport 2">BT Sport 2</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="880" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="63" xmltv_id="at the races">At The Races</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="446" xmltv_id="Racing UK">Racing UK</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="925" xmltv_id="BoxNation">BoxNation</channel>
@@ -190,23 +191,17 @@
 	<channel update="i" site="locatetv.com" site_id="/listings/golf-channel" xmltv_id="The Golf Channel">The Golf Channel</channel>
 	<channel update="i" site="locatetv.com" site_id="/listings/fox-sports-1" xmltv_id="Fox Sports 1">FoxSports1HD</channel>
 	<channel update="i" site="locatetv.com" site_id="/listings/fuel-tv" xmltv_id="Fox Sports 2">FoxSports2HD</channel>
-	<channel update="i" site="astro.com.my" site_id="82" xmltv_id="Astro SuperSport">Astro SuperSport</channel>
-	<channel update="i" site="astro.com.my" site_id="11" xmltv_id="Astro SuperSport 2">Astro SuperSport 2</channel>
-	<channel update="i" site="astro.com.my" site_id="80" xmltv_id="Astro SuperSport 3">Astro SuperSport 3</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLBNetwork</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFLNETWORK</channel>
-    <channel update="i" site="cthbpl.com" site_id="1565" xmltv_id="STADIUM 2 (CTH 212 SD / 57 HD)">CTH Stadium 2HD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="204" xmltv_id="MUTV">MUTV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="66" xmltv_id="BBC News">BBC News</channel>
+	<channel update="i" site="tv.com" site_id="69031481" xmltv_id="Fox News Channel HDTV (FNCHD)">FOX News</channel>
 	<channel update="i" site="locatetv.com" site_id="/listings/cnbc" xmltv_id="CNBC">CNBC</channel>
 	<channel update="i" site="locatetv.com" site_id="/listings/cnn-hd" xmltv_id="CNN HD">CNN</channel>
-	<channel update="i" site="tv.com" site_id="69031481" xmltv_id="Fox News Channel HDTV (FNCHD)">Fox News</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="257" xmltv_id="Sky News">Sky News</channel>
 
 
 
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:VOX Music Videos####" xmltv_id="VOX Music Videos">VOX</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="182" xmltv_id="Kiss TV">Kiss TV</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Kiss TV Music Videos####" xmltv_id="Kiss TV Music Videos">Kiss TV</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Nashville Music Videos####" xmltv_id="Vevo Nashville Music Videos">Vevo Nashville</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Flow Music Videos####" xmltv_id="Vevo Flow Music Videos">Vevo Flow</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Vevo Hits Music Videos####" xmltv_id="Vevo Hits Music Videos">Vevo Hits</channel>
