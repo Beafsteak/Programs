@@ -17,41 +17,41 @@
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
 <channels>    
-    <channel update="i" site="directv.com" site_id="397" xmltv_id="KABC (Los Angeles) ABC West (ABCw)">ABC</channel>
-    <channel update="i" site="directv.com" site_id="311" xmltv_id="ABC Family Channel (ABCF)">ABC Family</channel>
-    <channel update="i" site="tv.com" site_id="69048687" xmltv_id="KCBS (CBS)">CBS</channel>
+    <channel update="i" site="tv.com" site_id="69048654" xmltv_id="WABC (ABC)">ABC</channel>
+    <channel update="i" site="tv.com" site_id="69047170" xmltv_id="ABC Family Channel (East) (ABCFAM)">ABC Family</channel>
+    <channel update="i" site="tv.com" site_id="69021345" xmltv_id="WCBS (CBS)">CBS</channel>
     <channel update="i" site="tv.com" site_id="69045892" xmltv_id="WNYW (FOX)">FOX Miami</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="488" xmltv_id="FOX HD">FOX</channel>
-    <channel update="i" site="directv.com" site_id="392" xmltv_id="WNBC (New York) NBC East (NBCe)">NBC Miami</channel>
-    <channel update="i" site="directv.com" site_id="838" xmltv_id="XETV (San Diego) CW West (CWw)">The CW</channel>
-    <channel update="i" site="directv.com" site_id="280" xmltv_id="TLC (TLC)">TLC</channel>
-    <channel update="i" site="directv.com" site_id="406" xmltv_id="Oxygen (OXGN)">Oxygen</channel>
-    <channel update="i" site="directv.com" site_id="242" xmltv_id="USA Network (USA)">USA Network</channel>
-    <channel update="i" site="directv.com" site_id="369" xmltv_id="Spike (Spike)">Spike</channel>
-    <channel update="i" site="directv.com" site_id="567" xmltv_id="WGN America HD (WGNHD)">WGN America</channel>
+    <channel update="i" site="tv.com" site_id="69043310" xmltv_id="WNBC (NBC)">NBC Miami</channel>
+    <channel update="i" site="tv.com" site_id="69023824" xmltv_id="XETV (CW)">The CW</channel>
+    <channel update="i" site="tv.com" site_id="69047278" xmltv_id="The Learning Channel (East) (TLC)">TLC</channel>
+    <channel update="i" site="tv.com" site_id="69048828" xmltv_id="Oxygen (East) (OXYGN)">Oxygen</channel>
+    <channel update="i" site="tv.com" site_id="69047118" xmltv_id="USA Network (East) (USA)">USA Network</channel>
+    <channel update="i" site="tv.com" site_id="69047065" xmltv_id="Spike TV (East) (SPK)">Spike</channel>
+    <channel update="i" site="tv.com" site_id="69023795" xmltv_id="WGN America (WGNA)">WGN America</channel>
     <channel update="i" site="tvguide.co.uk" site_id="127" xmltv_id="Discovery">Discovery</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="134" xmltv_id="Discovery Science">Discovery Science</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="386" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="129" xmltv_id="Discovery History">Discovery History</channel>
-    <channel update="i" site="directv.com" site_id="344" xmltv_id="Do It Yourself Network (DIY)">DIY Network</channel>
+    <channel update="i" site="tv.com" site_id="69048582" xmltv_id="Do it Yourself Network (East) (DIY)">DIY Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="535" xmltv_id="Investigation Discovery">ID</channel>
-    <channel update="i" site="directv.com" site_id="468" xmltv_id="Animal Planet (APL)">Animal Planet</channel>
-    <channel update="i" site="directv.com" site_id="480" xmltv_id="Nat Geo WILD (NGW)">Nat Geo Wild</channel>
+    <channel update="i" site="tv.com" site_id="69047235" xmltv_id="Animal Planet (East) (ANIMAL)">Animal Planet</channel>
+    <channel update="i" site="tv.com" site_id="69034888" xmltv_id="NatGeo WILD (NGWILD)">Nat Geo Wild</channel>
 	<channel update="i" site="tv.com" site_id="69021518" xmltv_id="Yankees Television (YES)">YES!</channel>
     <channel update="i" site="tvguide.co.uk" site_id="527" xmltv_id="HISTORY HD">History</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="394" xmltv_id="CI">CI</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="505" xmltv_id="H2">H2</channel>
-    <channel update="i" site="directv.com" site_id="254" xmltv_id="AMC (amc)"></channel>
-    <channel update="i" site="directv.com" site_id="358" xmltv_id="Bravo (BRVO)">Bravo</channel>
-    <channel update="i" site="directv.com" site_id="401" xmltv_id="Comedy Central (COM)">ComedyCentral</channel>
-    <channel update="i" site="directv.com" site_id="248" xmltv_id="FX (FX)">FX</channel>
-    <channel update="i" site="directv.com" site_id="409" xmltv_id="Lifetime (LIFE)">Lifetime</channel>
-    <channel update="i" site="directv.com" site_id="245" xmltv_id="TNT (TNT)">TNT</channel>
-    <channel update="i" site="directv.com" site_id="389" xmltv_id="TBS Superstation (TBS)">TBS</channel>
+    <channel update="i" site="tv.com" site_id="69047124" xmltv_id="AMC (East) (AMC)">AMC</channel>
+    <channel update="i" site="tv.com" site_id="69046977" xmltv_id="Bravo (East) (BRAVO)">Bravo</channel>
+    <channel update="i" site="tv.com" site_id="69036536" xmltv_id="Comedy Central (East) (COMEDY)">ComedyCentral</channel>
+    <channel update="i" site="tv.com" site_id="69046950" xmltv_id="FX (East) (FX)">FX</channel>
+    <channel update="i" site="tv.com" site_id="69047159" xmltv_id="Lifetime Television (East) (LIFE)">Lifetime</channel>
+    <channel update="i" site="tv.com" site_id="69047074" xmltv_id="Turner Network Television (East) (TNT)">TNT</channel>
+    <channel update="i" site="tv.com" site_id="69046986" xmltv_id="TBS Superstation (East) (TBS)">TBS</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="669" xmltv_id="Good Food HD">Good Food</channel>
     <channel update="i" site="tvguide.co.uk" site_id="596" xmltv_id="Food Network">Food Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="595" xmltv_id="Food Network +1">Food Network+1</channel>
-    <channel update="i" site="directv.com" site_id="236" xmltv_id="E! (E!)">E!</channel>
+    <channel update="i" site="tv.com" site_id="69046982" xmltv_id="E! Entertainment Television (East) (E!)">E!</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="289" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="tv.com" site_id="69043501" xmltv_id="truTV (East) (TRUTV)">truTV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="385" xmltv_id="CBS Reality">CBS Reality</channel>
@@ -69,7 +69,7 @@
 	<channel update="i" site="tvguide.co.uk" site_id="836" xmltv_id="Baby TV">Baby TV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="113" xmltv_id="Boomerang">Boomerang</channel>
 	<channel update="i" site="tv.com" site_id="69046839" xmltv_id="American Heroes Channel (AHC)">American Heroes Channel</channel>
-    <channel update="i" site="directv.com" site_id="564" xmltv_id="IFC (IFC)">IFC</channel>
+    <channel update="i" site="tv.com" site_id="69022998" xmltv_id="IFC (East) (IFC)">IFC</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="378" xmltv_id="Movies 24">Movies 24</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="660" xmltv_id="Film4 HD">Film4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="742" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
