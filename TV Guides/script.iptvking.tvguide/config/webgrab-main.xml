@@ -17,17 +17,17 @@
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
 <channels>    
-    <channel update="i" site="tv.com" site_id="69022154" xmltv_id="KABC HDTV (ABC)">ABC</channel>
-	<channel update="i" site="tv.com" site_id="69031566" xmltv_id="ABC Family Channel HDTV (East) (ABCF)">ABC Family</channel>
+    <channel update="i" site="directv.com" site_id="397" xmltv_id="KABC (Los Angeles) ABC West (ABCw)">ABC</channel>
+    <channel update="i" site="directv.com" site_id="311" xmltv_id="ABC Family Channel (ABCF)">ABC Family</channel>
     <channel update="i" site="tv.com" site_id="69048687" xmltv_id="KCBS (CBS)">CBS</channel>
     <channel update="i" site="tv.com" site_id="69045892" xmltv_id="WNYW (FOX)">FOX Miami</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="488" xmltv_id="FOX HD">FOX</channel>
-    <channel update="i" site="tv.com" site_id="69043310" xmltv_id="WNBC (NBC)">NBC Miami</channel>
-	<channel update="i" site="tv.com" site_id="69023824" xmltv_id="XETV (CW)">The CW</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="865" xmltv_id="TLC">TLC</channel>
-	<channel update="i" site="tv.com" site_id="69048828" xmltv_id="Oxygen (East) (OXYGN)">Oxygen</channel>
+    <channel update="i" site="directv.com" site_id="392" xmltv_id="WNBC (New York) NBC East (NBCe)">NBC Miami</channel>
+    <channel update="i" site="directv.com" site_id="838" xmltv_id="XETV (San Diego) CW West (CWw)">The CW</channel>
+    <channel update="i" site="directv.com" site_id="280" xmltv_id="TLC (TLC)">TLC</channel>
+    <channel update="i" site="directv.com" site_id="406" xmltv_id="Oxygen (OXGN)">Oxygen</channel>
     <channel update="i" site="directv.com" site_id="242" xmltv_id="USA Network (USA)">USA Network</channel>
-	<channel update="i" site="tv.com" site_id="69031237" xmltv_id="Spike TV HDTV (East) (SPKHD)">Spike</channel>
+    <channel update="i" site="directv.com" site_id="369" xmltv_id="Spike (Spike)">Spike</channel>
     <channel update="i" site="directv.com" site_id="567" xmltv_id="WGN America HD (WGNHD)">WGN America</channel>
     <channel update="i" site="tvguide.co.uk" site_id="127" xmltv_id="Discovery">Discovery</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="134" xmltv_id="Discovery Science">Discovery Science</channel>
@@ -35,23 +35,23 @@
 	<channel update="i" site="tvguide.co.uk" site_id="129" xmltv_id="Discovery History">Discovery History</channel>
     <channel update="i" site="directv.com" site_id="344" xmltv_id="Do It Yourself Network (DIY)">DIY Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="535" xmltv_id="Investigation Discovery">ID</channel>
-    <channel update="i" site="tv.com" site_id="69047235" xmltv_id="Animal Planet (East) (ANIMAL)">Animal Planet</channel>
-    <channel update="i" site="tv.com" site_id="69034888" xmltv_id="NatGeo WILD (NGWILD)">Nat Geo Wild</channel>
+    <channel update="i" site="directv.com" site_id="468" xmltv_id="Animal Planet (APL)">Animal Planet</channel>
+    <channel update="i" site="directv.com" site_id="480" xmltv_id="Nat Geo WILD (NGW)">Nat Geo Wild</channel>
 	<channel update="i" site="tv.com" site_id="69021518" xmltv_id="Yankees Television (YES)">YES!</channel>
     <channel update="i" site="tvguide.co.uk" site_id="527" xmltv_id="HISTORY HD">History</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="394" xmltv_id="CI">CI</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="505" xmltv_id="H2">H2</channel>
-	<channel update="i" site="tv.com" site_id="69047124" xmltv_id="AMC (East) (AMC)">AMC</channel>
-    <channel update="i" site="tv.com" site_id="69030779" xmltv_id="Bravo HDTV (East) (BRAVOD)">Bravo</channel>
-    <channel update="i" site="tv.com" site_id="69036536" xmltv_id="Comedy Central (East) (COMEDY)">ComedyCentral</channel>
+    <channel update="i" site="directv.com" site_id="254" xmltv_id="AMC (amc)"></channel>
+    <channel update="i" site="directv.com" site_id="358" xmltv_id="Bravo (BRVO)">Bravo</channel>
+    <channel update="i" site="directv.com" site_id="401" xmltv_id="Comedy Central (COM)">ComedyCentral</channel>
     <channel update="i" site="directv.com" site_id="248" xmltv_id="FX (FX)">FX</channel>
-    <channel update="i" site="tv.com" site_id="69047159" xmltv_id="Lifetime Television (East) (LIFE)">Lifetime</channel>
+    <channel update="i" site="directv.com" site_id="409" xmltv_id="Lifetime (LIFE)">Lifetime</channel>
     <channel update="i" site="directv.com" site_id="245" xmltv_id="TNT (TNT)">TNT</channel>
     <channel update="i" site="directv.com" site_id="389" xmltv_id="TBS Superstation (TBS)">TBS</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="669" xmltv_id="Good Food HD">Good Food</channel>
     <channel update="i" site="tvguide.co.uk" site_id="596" xmltv_id="Food Network">Food Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="595" xmltv_id="Food Network +1">Food Network+1</channel>
-    <channel update="i" site="tv.com" site_id="69046982" xmltv_id="E! Entertainment Television (East) (E!)">E!</channel>
+    <channel update="i" site="directv.com" site_id="236" xmltv_id="E! (E!)">E!</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="289" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="tv.com" site_id="69043501" xmltv_id="truTV (East) (TRUTV)">truTV</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="385" xmltv_id="CBS Reality">CBS Reality</channel>
@@ -59,7 +59,7 @@
     <channel update="i" site="tvguide.co.uk" site_id="493" xmltv_id="CBS Drama">CBS Drama</channel>
 	<channel update="i" site="tv.com" site_id="666275455" xmltv_id="FXX (East) (FXX)">FXX</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="820" xmltv_id="TCM HD">TCM</channel>
-    <channel update="i" site="directv.com" site_id="536" xmltv_id="Cartoon Network West (CNw)">Cartoon Network</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="457" xmltv_id="Cartoon Network +1">Cartoon Network</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="116" xmltv_id="Cartoon Network">Cartoon Network UK</channel>
     <channel update="i" site="tv.com" site_id="69047110" xmltv_id="Nickelodeon (East) (NIK)">Nickelodeon</channel>
     <channel update="i" site="tvguide.co.uk" site_id="211" xmltv_id="Nick Jr">Nick Junior</channel>
@@ -222,7 +222,7 @@
 	
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:WWE Network - All Day Every Day!!!!!##description:WWE Network - All Day Every Day!!!!!####" xmltv_id="WWE Network">WWE Network</channel>
 	<channel update="i" site="filmon.com" site_id="713" xmltv_id="UFC Next">UFC Next</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC - All Day Every Day!!!!!##description:UFC - All Day Every Day!!!!!####" xmltv_id="ufc">ufc</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC Network - All Day Every Day!!!!!##description:UFC Network - All Day Every Day!!!!!####" xmltv_id="UFC Network">UFC Network</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Home Improvement - All Day Every Day!!!!!##description:Home Improvement - All Day Every Day!!!!!####" xmltv_id="Home Improvement">Home Improvement</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:King Of Queens - All Day Every Day!!!!!##description:King Of Queens - All Day Every Day!!!!!####" xmltv_id="King Of Queens">King Of Queens</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:American Dad - All Day Every Day!!!!!##description:American Dad - All Day Every Day!!!!!####" xmltv_id="American Dad">American Dad</channel>
