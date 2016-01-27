@@ -3,7 +3,7 @@
    
   <!-- for detailed info about the settings see http://webgrabplus.com/node/30 -->
    
-  <filename>/var/www/kodi/guides/guide.xml</filename>
+  <filename>/var/www/kodi/guides/main.xml</filename>
   <mode></mode>
   <postprocess run="n" grab="y">mdb</postprocess>
   <proxy>automatic</proxy>
