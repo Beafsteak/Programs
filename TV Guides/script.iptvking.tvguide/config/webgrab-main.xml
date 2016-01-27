@@ -11,7 +11,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <skip>noskip</skip>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>f</update>
  
   <!-- replace the next dummy channel entry with the channels you want -->
@@ -20,10 +20,10 @@
     <channel update="i" site="tv.com" site_id="69048654" xmltv_id="WABC (ABC)">ABC Miami</channel>
     <channel update="i" site="tv.com" site_id="69047170" xmltv_id="ABC Family Channel (East) (ABCFAM)">ABC Family</channel>
     <channel update="i" site="tv.com" site_id="69021345" xmltv_id="WCBS (CBS)">CBS New York</channel>
-    <channel update="i" site="tv.com" site_id="69033947" xmltv_id="KTVU (FOX)">FOX Miami</channel>
+    <channel update="i" site="tv.com" site_id="69045892" xmltv_id="WNYW (FOX)">FOX Miami</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="488" xmltv_id="FOX HD">FOX</channel>
-    <channel update="i" site="tv.com" site_id="69049272" xmltv_id="KNTV (NBC)">NBC Miami</channel>
-    <channel update="i" site="tv.com" site_id="69048665" xmltv_id="KBCW (CW)">The CW</channel>
+    <channel update="i" site="tv.com" site_id="69043310" xmltv_id="WNBC (NBC)">NBC Miami</channel>
+    <channel update="i" site="tv.com" site_id="69048692" xmltv_id="WDCW (CW)">The CW</channel>
     <channel update="i" site="tvguide.co.uk" site_id="865" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="tv.com" site_id="69048828" xmltv_id="Oxygen (East) (OXYGN)">Oxygen</channel>
     <channel update="i" site="tv.com" site_id="69047118" xmltv_id="USA Network (East) (USA)">USA Network East</channel>
@@ -68,7 +68,7 @@
 	<channel update="i" site="tvguide.co.uk" site_id="113" xmltv_id="Boomerang">Boomerang USA</channel>
 	<channel update="i" site="tv.com" site_id="69046839" xmltv_id="American Heroes Channel (AHC)">American Heroes Channel</channel>
     <channel update="i" site="tv.com" site_id="69022998" xmltv_id="IFC (East) (IFC)">IFC East</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="378" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="608" xmltv_id="Movies24 +1">Movies 24</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="660" xmltv_id="Film4 HD">Film 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="742" xmltv_id="Sony Movie Channel">Sony Movie Channel USA</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="861" xmltv_id="True Drama">True Drama</channel>
@@ -113,7 +113,7 @@
 	<channel update="i" site="tvguide.co.uk" site_id="850" xmltv_id="Sky Movies Disney">SKY Movies Disney</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="252" xmltv_id="Sky Movies Family">SKY Movies Family</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="614" xmltv_id="Sky Movies Crime &amp; Thriller">SKY Movies Crime and Thriller</channel>
-	<channel update="i" site="tvguide.co.uk" site_id="524" xmltv_id="Sky Movies Sci-fi &amp; Horror">SKY Movies Sci-fi</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="524" xmltv_id="Sky Movies Sci-fi &amp; Horror HD">SKY Movies Sci-fi</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="380" xmltv_id="Sky Movies Select">SKY Select</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="703" xmltv_id="Sky Atlantic HD">SKY Atlantic</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="258" xmltv_id="Sky1">SKY One</channel>
@@ -151,8 +151,8 @@
 	<channel update="i" site="astro.com.my" site_id="82" xmltv_id="Astro SuperSport">ASTRO SuperSport 1 HD 720p</channel>
 	<channel update="i" site="astro.com.my" site_id="11" xmltv_id="Astro SuperSport 2">ASTRO SuperSport 2</channel>
 	<channel update="i" site="astro.com.my" site_id="80" xmltv_id="Astro SuperSport 3">ASTRO SuperSport 3</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLB Network</channel>
-	<channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFL Network HD</channel>
+    <channel update="i" site="tv.com" site_id="69032811" xmltv_id="MLB Network (MLBN)">MLB Network</channel>
+    <channel update="i" site="tv.com" site_id="69025686" xmltv_id="The NFL Network HDTV (NFLHD)">NFL Network HD</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="260" xmltv_id="Sky Sports 1">SKY Sports 1</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="261" xmltv_id="Sky Sports 2">SKY Sports 2</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="262" xmltv_id="Sky Sports 3">SKY Sports 3</channel>
