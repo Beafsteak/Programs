@@ -208,7 +208,7 @@
     <channel update="i" site="tv.com" site_id="69021964" xmltv_id="NFL Sunday Ticket (NFL7)">NFL Sunday Ticket 7</channel>
 	
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:WWE Network - All Day Every Day!!!!!##description:WWE Network - All Day Every Day!!!!!####" xmltv_id="WWE Network">WWE Network</channel>
-	<channel update="i" site="filmon.com" site_id="713" xmltv_id="UFC Next">UFC Next</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC Next - All Day Every Day!!!!!##description:UFC Next - All Day Every Day!!!!!####" xmltv_id="UFC Next">UFC Next</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:UFC Network - All Day Every Day!!!!!##description:UFC Network - All Day Every Day!!!!!####" xmltv_id="UFC Network">UFC Network</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Home Improvement - All Day Every Day!!!!!##description:Home Improvement - All Day Every Day!!!!!####" xmltv_id="Home Improvement">Home Improvement</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:King Of Queens - All Day Every Day!!!!!##description:King Of Queens - All Day Every Day!!!!!####" xmltv_id="King Of Queens">King Of Queens</channel>
