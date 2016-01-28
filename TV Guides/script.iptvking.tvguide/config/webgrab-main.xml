@@ -322,6 +322,8 @@
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Sisters##description:Two sisters decide to throw one last house party before their parents sell their family home.####" xmltv_id="Sisters">Sisters</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Last Witch Hunter##description:The last witch hunter is all that stands between humanity and the combined forces of the most horrifying witches in history.####" xmltv_id="The Last Witch Hunter">The Last Witch Hunter</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Tenacious D in The Pick of Destiny##description:In Venice Beach, naive Midwesterner JB bonds with local slacker KG and they form the rock band Tenacious D. Setting out to become the world's greatest band is no easy feat, so they set out to steal what could be the answer to their prayers -- a magical guitar pick housed in a rock-and-roll museum some 300 miles away.####" xmltv_id="Tenacious D in The Pick of Destiny">Tenacious D in The Pick of Destiny</channel>
+	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Judgment Night##description:Four friends on their way to a boxing match get caught in heavy traffic, so they take a shortcut in order to get there faster, unfortunately it leads to them witnessing a murder which leaves them running for their lives.####" xmltv_id="Judgment Night">Judgment Night</channel>
+	
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Kraz Mixes##description:DJ Kraz Live Mixes - 10 hours of non-stop EDM.####" xmltv_id="Kraz Mixes">Kraz Mixes</channel>
 
   </channels>
