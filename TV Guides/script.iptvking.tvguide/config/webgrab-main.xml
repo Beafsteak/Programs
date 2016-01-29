@@ -159,6 +159,7 @@
 	<channel update="i" site="tvguide.co.uk" site_id="264" xmltv_id="Sky Sports 4">SKY Sports 4</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="918" xmltv_id="Sky Sports 5">SKY Sports 5</channel>
     <channel update="i" site="tvguide.co.uk" site_id="737" xmltv_id="Sky Sports F1 HD">SKY Sports F1</channel>
+	<channel update="i" site="tvguide.co.uk" site_id="263" xmltv_id="Sky Sports News">SKY Sports News</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="142" xmltv_id="British Eurosport">Eurosport 1</channel>
 	<channel update="i" site="tvguide.co.uk" site_id="400" xmltv_id="British Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvguide.co.uk" site_id="875" xmltv_id="BT Sport 1">BT Sport 1</channel>
@@ -214,29 +215,16 @@
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:King Of Queens - All Day Every Day!!!!!##description:King Of Queens - All Day Every Day!!!!!####" xmltv_id="King Of Queens">King Of Queens</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:American Dad - All Day Every Day!!!!!##description:American Dad - All Day Every Day!!!!!####" xmltv_id="American Dad">American Dad</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Futurama - All Day Every Day!!!!!##description:Futurama - All Day Every Day!!!!!####" xmltv_id="Futurama">Futurama</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Trailer Park Boys - All Day Every Day!!!!!##description:Trailer Park Boys - All Day Every Day!!!!!####" xmltv_id="Trailer Park Boys">Trialer Park Boys</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Scrubs - All Day Every Day!!!!!##description:Scrubs - All Day Every Day!!!!!####" xmltv_id="Scrubs">Scrubs</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Married With Children - All Day Every Day!!!!!##description:Married With Children - All Day Every Day!!!!!####" xmltv_id="Married With Children">Married With Children</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Suits - All Day Every Day!!!!!##description:Suits - All Day Every Day!!!!!####" xmltv_id="Suits">Suits</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Sopranos - All Day Every Day!!!!!##description:The Sopranos - All Day Every Day!!!!!####" xmltv_id="The Sopranos">The Sopranos</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:That 70s Show - All Day Every Day!!!!!##description:That 70s Show - All Day Every Day!!!!!####" xmltv_id="That 70s Show">That 70s Show</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:30 Rock - All Day Every Day!!!!!##description:30 Rock - All Day Every Day!!!!!####" xmltv_id="30 Rock">30 Rock</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Flinstones - All Day Every Day!!!!!##description:The Flinstones - All Day Every Day!!!!!####" xmltv_id="The Flinstones">The Flinstones</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Dr Who - All Day Every Day!!!!!##description:Dr Who - All Day Every Day!!!!!####" xmltv_id="Dr Who">Dr Who</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:House MD - All Day Every Day!!!!!##description:House MD - All Day Every Day!!!!!####" xmltv_id="House MD">House MD</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Fringe - All Day Every Day!!!!!##description:Fringe - All Day Every Day!!!!!####" xmltv_id="Fringe">Fringe</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Impractical Jokers - All Day Every Day!!!!!##description:Impractical Jokers - All Day Every Day!!!!!####" xmltv_id="Impractical Jokers">Impractical Jokers</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:NCIS - All Day Every Day!!!!!##description:NCIS - All Day Every Day!!!!!####" xmltv_id="NCIS">NCIS</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Aliens - All Day Every Day!!!!!##description:Aliens - All Day Every Day!!!!!####" xmltv_id="Aliens">Aliens</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Dexter - All Day Every Day!!!!!##description:Dexter - All Day Every Day!!!!!####" xmltv_id="Dexter">Dexter</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Seinfield - All Day Every Day!!!!!##description:Seinfield - All Day Every Day!!!!!####" xmltv_id="Seinfield">Seinfield</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:New Girl - All Day Every Day!!!!!##description:New Girl - All Day Every Day!!!!!####" xmltv_id="New Girl">New Girl</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Game of Thrones - All Day Every Day!!!!!##description:Game of Thrones - All Day Every Day!!!!!####" xmltv_id="Game of Thrones">Game of Thrones</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Scary Movies - All Day Every Day!!!!!##description:Scary Movies - All Day Every Day!!!!!####" xmltv_id="Scary Movies">Scary Movies</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:King of the Hill - All Day Every Day!!!!!##description:King of the Hill - All Day Every Day!!!!!####" xmltv_id="King of the Hill">King of the Hill</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:The Simpsons - All Day Every Day!!!!!##description:The Simpsons - All Day Every Day!!!!!####" xmltv_id="The Simpsons">The Simpsons</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:South Park - All Day Every Day!!!!!##description:South Park - All Day Every Day!!!!!####" xmltv_id="South Park">South Park</channel>
-	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Always Sunny in Philadelphia - All Day Every Day!!!!!##description:Always Sunny in Philadelphia - All Day Every Day!!!!!####" xmltv_id="Always Sunny in Philadelphia">Always Sunny in Philadelphia</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Different Episode Every Time You Play!!!!!##description:Different Episode Every of Two and a Half Men Every Time You Play!!!!!####" xmltv_id="Two and a Half Men">Two and a Half Men</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Different Episode Every Time You Play!!!!!##description:Different Episode of The Big Bang Theory Every Time You Play!!!!!####" xmltv_id="The Big Bang Theory">The Big Bang Theory</channel>
 	<channel update="f" site="fixed" site_id=" 00:00-23:59##title:Different Episode Every Time You Play!!!!!##description:Different Episode of How I Met Your Mother Every Time You Play!!!!!####" xmltv_id="How i Met Your Mother">How i Met Your Mother</channel>
