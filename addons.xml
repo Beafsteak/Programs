@@ -160,7 +160,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
     </extension>
 </addon>
 
-    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="2.4" provider-name="krAZ">
+    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="99" provider-name="SNAKE">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -172,7 +172,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Install My Addons</summary>
-            <description>Download and install addons from KrAz!</description>
+            <description>Download and install addons from A SNAKE!</description>
             <platform>all</platform>
     </extension>
 </addon>
