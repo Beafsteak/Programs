@@ -36,8 +36,8 @@ def run():
     if not kasutajanimi:
         kasutajanimi = "NONE"
         salasona="NONE"
-    lehekylg="http://iptv-area-51.tv"
-    pordinumber="2095"
+    lehekylg=""
+    pordinumber=""
     uuendused=plugintools.get_setting(sync_data("dXVlbmR1c2Vk"))
     vanemalukk=plugintools.get_setting(sync_data("dmFuZW1hbHVraw=="))
     showxxx=plugintools.get_setting("showxxx")
