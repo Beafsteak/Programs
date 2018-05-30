@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="99" provider-name="SNAKE">
+    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="2.6" provider-name="SNAKE">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>

@@ -40,7 +40,7 @@
 
 <addon id="plugin.video.area51"
        name="[COLOR lightgreen]Area-51 IPTV[/COLOR]"
-       version="99"
+       version="9.9"
        provider-name="Area-51">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -57,7 +57,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.area51x" name="[COLOR green]Area 51 X[/COLOR]" version="99" provider-name="Ragnor">
+<addon id="plugin.video.area51x" name="[COLOR green]Area 51 X[/COLOR]" version="9.9" provider-name="Ragnor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0" />
@@ -160,7 +160,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
     </extension>
 </addon>
 
-    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="99" provider-name="SNAKE">
+    <addon id="repository.ufo-repo" name="[COLOR lightgreen]UFO[/COLOR] Repository" version="2.6" provider-name="SNAKE">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
